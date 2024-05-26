@@ -1,6 +1,5 @@
 # Zomato Data Analysis and Visualization
 
-![Zomato Logo](https://cdn.iconscout.com/icon/free/png-512/zomato-1938491-1645079.png)
 
 This project aims to analyze and visualize data from the Zomato platform to gain insights into customer preferences, restaurant trends, and industry dynamics.
 
