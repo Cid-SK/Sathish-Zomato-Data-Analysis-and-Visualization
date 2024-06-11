@@ -3,7 +3,7 @@ import streamlit as st
 from streamlit_option_menu import option_menu
 import plotly.express as px
 
-data = pd.read_csv("G:\\SK\\Ds\\zomato\\zomato.csv")
+data = pd.read_csv("zomato.csv")
 df=data.copy()
 
 #streamlit part
